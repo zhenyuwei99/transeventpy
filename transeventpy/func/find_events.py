@@ -13,4 +13,5 @@ from transeventpy.core.event import Event
 
 
 def find_events(trace: Trace) -> List[Event]:
-    pass
+    a = 1
+    return a
